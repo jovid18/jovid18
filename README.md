@@ -1,13 +1,22 @@
 # jovid_18
 
 <h1>PS</h1>
-<h3>Boj</h3>
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cshcho99)](https://solved.ac/cshcho99)
-<br/>
-<h3>Codeforces</h3>
-
-[![CodeForces Profile](https://cf.leed.at?id=morgorithm)](https://codeforces.com/profile/morgorithm)
+<table>
+  <tr>
+    <td>
+      <h3>Boj</h3>
+      <a href="https://solved.ac/cshcho99">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cshcho99" alt="Solved.ac프로필"/>
+      </a>
+    </td>
+    <td>
+      <h3>Codeforces</h3>
+      <a href="https://codeforces.com/profile/morgorithm">
+        <img src="https://cf.leed.at?id=morgorithm" alt="CodeForces Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h1>Blog</h1>
