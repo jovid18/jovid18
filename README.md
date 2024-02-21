@@ -1,10 +1,5 @@
 # jovid_18
 
-<h1>Blog</h1>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jovid18)](https://github.com/eungyeole/velog-readme-stats)
-
-
 <h1>PS</h1>
 <h3>Boj</h3>
 
@@ -14,5 +9,9 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=morgorithm)](https://codeforces.com/profile/morgorithm)
 
+
+<h1>Blog</h1>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jovid18)](https://github.com/eungyeole/velog-readme-stats)
 
 
